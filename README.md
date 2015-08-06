@@ -5,7 +5,7 @@
 - What is Git
 - What is Github
 - Basic day to day usage (online section)
-- Basic day to day usage (offline section)
+- Basid Git set up
 
 ## Resources
 
